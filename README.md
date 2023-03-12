@@ -1,6 +1,6 @@
 # Installer.php generator
 
-Generator.php
+With this tool, you can forward your project to its users as a single file.
 
 # Install
 
